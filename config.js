@@ -14,7 +14,7 @@ global.owner = [
   ['56945086055', '@ceogeripium.dzn', true],
   ['51933348947', 'Richetti2', true],
   ['56954390663', 'GeriPium', true],
-  ['5212221838954', 'CherBot', true],
+  ['529811962898', 'AmorBot', true],
   ['56945086055', '@ceogeripium.dzn', true],
   ['56945086055', '@ceogeripium.dzn', true],
   ['56945086055', '@ceogeripium.dzn', false],
@@ -36,12 +36,12 @@ global.owner = [
 global.suittag = ['56945086055'];
 global.prems = ['56945086055'];
 
-global.packname = 'CherBot';
-global.author = 'CherBot';
-global.wm = 'CherBot';
-global.titulowm = 'CherBot';
-global.titulowm2 = `CherBot`
-global.igfg = 'CherBot';
+global.packname = 'AmorBot';
+global.author = 'AmorBot';
+global.wm = 'AmorBot';
+global.titulowm = 'AmorBot';
+global.titulowm2 = `AmorBot`
+global.igfg = 'AmorBot';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -62,11 +62,11 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ CherBot`;
-global.gt = 'CherBot';
-global.mysticbot = 'CherBot';
-global.md = 'https://www.instagram.com/@cher.lq69';
-global.mysticbot = 'https://www.instagram.com/@cher.lq69';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ AmorBot`;
+global.gt = 'AmorBot';
+global.mysticbot = 'AmorBot';
+global.md = 'https://www.instagram.com/corporación_vikingos_oficial';
+global.mysticbot = 'https://www.instagram.com/corporación_vikingos_oficial';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
