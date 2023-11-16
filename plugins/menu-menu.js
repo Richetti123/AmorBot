@@ -22,15 +22,13 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *CherBot* —◉
+║    ◉— *AmorBot* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* CherBot
-║➤ *Numero:* wa.me/5212221838954
-║➤ *Creador 1:* wa.me/56954390663
-║➤ *Creador 2:* wa.me/56945086055
-║➤ *Instagram:* https://www.instagram.com/ceogeripium.dzn
+║➤ *Owner:* AmorBot
+║➤ *Numero:* wa.me/529811962898
+║➤ *Instagram:* https://www.instagram.com/corporación_vikingos_oficial
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
 ║➤ *Usuarios regs:* ${rtotalreg}
@@ -44,7 +42,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┣ *🧰 Experiencia:* ${exp}
 ┣ *⚓ Rango:* ${role}
 ┣ *💎 Diamantes:* ${limit}
-┣ *👾 CherCoins:* ${money}
+┣ *👾 AmorCoins:* ${money}
 ┣ *🪙 Tokens:* ${joincount}
 ┣ *🎟️ Premium:* ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌') || ''}
 ┗━━━━━━━━━━━━━━━━┛
